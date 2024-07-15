@@ -19,7 +19,7 @@
 
 <div id="top" align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2402.16174-blue)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2407.09016-blue)](http://arxiv.org/abs/2407.09016)
 [![](https://img.shields.io/badge/Paper-%F0%9F%93%96-blue)](assets/OVEXP.pdf)
 [![](https://img.shields.io/badge/Project-%F0%9F%9A%80-blue)](https://ovexp.github.io/)
 
